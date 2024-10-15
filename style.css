@@ -116,7 +116,8 @@ main {
 }
 
 .nav {
-  color: rgb(13, 47, 139);
+  color: rgb(141, 226, 179);
+  font-family: sans-serif;
   position: absolute;
   bottom: 12rem;
   left: 50%;
